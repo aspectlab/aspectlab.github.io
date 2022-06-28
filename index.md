@@ -1,4 +1,4 @@
-# publications
+# journal publications / magazines
 
 - S. Farazi, A.G. Klein, and D.R. Brown III, ["Average age of information in update systems with active sources and packet delivery errors,"](papers/WCL2020.pdf) in _IEEE Wireless Comm. Letters_, vol. 9, no. 8, pp. 1164-1168, Aug. 2020, doi: [10.1109/LWC.2020.2983397](https://doi.org/10.1109/LWC.2020.2983397).
 - S. Farazi, A.G. Klein, and D.R. Brown III, ["Fundamental bounds on the age of information in multi-hop global status update networks,"](papers/jcn2019.pdf) in _Journal of Communications and Networks (JCN) Special Issue on Age of Information_, vol. 21, no. 3, Jun. 2019, doi: [10.1109/JCN.2019.000038](https://doi.org/10.1109/JCN.2019.000038).
@@ -16,6 +16,8 @@
 - A.G. Klein and P. Duhamel, ["Decision-feedback equalization for pulse-position modulation,"](papers/101109tsp2007899392.pdf) in _IEEE Trans. Signal Process._, vol. 55, pp. 5361-5369, Nov. 2007, doi: [10.1109/TSP.2007.899392](https://doi.org/10.1109/TSP.2007.899392).
 - B. Djeumou, S. Lasaulce, and A.G. Klein, ["Practical quantize and forward schemes for the frequency division relay channel,"](papers/S1687147207202580.pdf) in _EURASIP Journal on Wireless Communications and Networking (JWCN)_, Volume 2007, 2007, doi: [10.1155/2007/20258](https://doi.org/10.1155/2007/20258).
 - A.G. Klein, C.R. Johnson, Jr., and P. Duhamel, ["On blind equalization of biorthogonal signaling,"](papers/04133040.pdf) in _IEEE Trans. Signal Process._, vol. 55, pp. 1421-1435, Apr. 2007, doi: [10.1109/TSP.2006.889981](https://doi.org/10.1109/TSP.2006.889981).
+
+# conference publications
 
 - J. Davishahl, J.A. Brobst, E. Litlzer, S. Al-Qudah, and A.G. Klein, "Exploring the complex relationship between engineering students' math experiences and identity formation," accepted to appear in _Proc. of the American Society for Engineering Education (ASEE) Annual Conf. and Exposition_, Jun. 2022.
 - J.A. Brobst, E. Litlzer, S. Al-Qudah, R. Barber DeGraff, J. Davishahl, P. Fizzano, D. Hartenstine, A.G. Klein, "Developing sense of belonging in isolation: insights from two projects supporting STEM undergraduates," accepted to appear in _Proc. 2022 AERA Annual Meeting_, Apr. 2022.
@@ -81,6 +83,8 @@
 - A.G. Klein, D.R. Brown III, and C.R. Johnson, Jr., ["MMSE decision feedback equalization of orthogonal multipulse modulated signals,"](papers/ciss04.pdf) in _Proc. Conf. on Information Sciences and Systems (CISS'04)_, Mar. 2004.
 - C.R. Johnson, Jr., R.K. Martin, J.M. Walsh, A.G. Klein, C.E. Orlicki, and T. Lin, ["Blind channel shorteners,"](papers/ifac_bcs.pdf) in _Proc. IFAC Symp. on System Identification_ (invited), Aug. 2003, doi: [10.1016/S1474-6670(17)34825-5](https://doi.org/10.1016/S1474-6670(17)34825-5).
 - A.G. Klein, D.R. Brown III, D.L. Goeckel, and C.R. Johnson, Jr., ["RAKE reception for UWB communication systems with intersymbol interference,"](papers/01318959.pdf) in _Proc. IEEE Workshop on Signal Processing Advances in Wireless Communications (SPAWC'03)_, Jun. 2003, doi: [10.1109/SPAWC.2003.1318959](https://doi.org/10.1109/SPAWC.2003.1318959).
+
+# books
 
 - S. Farazi, A.G. Klein, and D.R. Brown III. "Age of Channel State Information" in _Age of Information: Foundations and Applications_, H. Dhillon, W. Saad, N. Pappas, M.A. Abd-Elmagid, and B. Zhou, Eds. Cambridge University Press, 2022 (to appear), doi: TBD.
 - C.R. Johnson, Jr., W.A. Sethares, and A.G. Klein, [_Software Receiver Design: Build Your Own Digital Communications System in Five Easy Steps_](http://www.amazon.com/Software-Receiver-Design-Digital-Communication/dp/1107007526). Cambridge University Press, 2011, doi: [10.1017/CBO9781139005227](https://doi.org/10.1017/CBO9781139005227).
