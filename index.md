@@ -1,4 +1,4 @@
-# journal papers and magazine articles
+# publications
 
 - S. Farazi, A.G. Klein, and D.R. Brown III, ["Average age of information in update systems with active sources and packet delivery errors,"](papers/WCL2020.pdf) in _IEEE Wireless Comm. Letters_, vol. 9, no. 8, pp. 1164-1168, Aug. 2020, doi: [10.1109/LWC.2020.2983397](https://doi.org/10.1109/LWC.2020.2983397).
 - S. Farazi, A.G. Klein, and D.R. Brown III, ["Fundamental bounds on the age of information in multi-hop global status update networks,"](papers/jcn2019.pdf) in _Journal of Communications and Networks (JCN) Special Issue on Age of Information_, vol. 21, no. 3, Jun. 2019, doi: [10.1109/JCN.2019.000038](https://doi.org/10.1109/JCN.2019.000038).
@@ -6,37 +6,15 @@
 - P. Abry, S.G. Roux, H. Wendt, P. Messier, A.G. Klein, N. Tremblay, P. Borgnat, S. Jaffard, B. Vedel, J. Coddington, and L. Daffner, ["Multiscale anisotropic texture analysis and classification of photographic prints,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7123061) in _IEEE Signal Process. Mag._, vol. 32, pp. 18-27, Jul. 2015, doi: [10.1109/MSP.2015.2402056](https://doi.org/10.1109/MSP.2015.2402056).
 - P. Abry, A.G. Klein, W.A. Sethares, and C.R. Johnson, Jr., ["Signal processing for art investigation: A shift to image feature mining (special issue guest editorial),"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7123720) in _IEEE Signal Processing Magazine_, vol. 32, pp. 14-16, Jul. 2015, doi: [10.1109/MSP.2015.2419311](https://doi.org/10.1109/MSP.2015.2419311).
 - D.R. Brown III, A.G. Klein, and R. Wang, ["Monotonic mean-squared convergence conditions for random pairwise consensus synchronization in wireless networks,"](papers/tsp2014.pdf) in _IEEE Trans. Signal Process._, vol. 63, pp. 988-1000, Feb. 2015, doi: [10.1109/TSP.2014.2386280](https://doi.org/10.1109/TSP.2014.2386280).
+- C.R. Johnson, Jr., P. Messier, W.A. Sethares, A.G. Klein, et al., ["Pursuing automated classification of historic photographic papers from raking light photomicrographs,"](papers/JAIC-HPPC_submitted_5_24_13.pdf) in _Journal of the American Institute for Conservation_, Vol. 53, No. 3, pp. 159-170, Aug. 2014, doi: [10.1179/1945233014Y.0000000024](https://doi.org/10.1179/1945233014Y.0000000024).
+- Y. Peng, X. Huang, A.G. Klein, and K. Zhang, <a href="papers/tvlsi_peng.pdf">"Design and implementation of a low-complexity symbol detector for sparse channels,"]() in _IEEE Trans. VLSI Syst._, vol. 21, pp. 1506-1515, Aug. 2013, doi: [10.1109/TVLSI.2012.2211902](https://doi.org/10.1109/TVLSI.2012.2211902).
+- Q. Deng and A.G. Klein, ["Diversity of multi-hop cluster-based routing with arbitrary relay selection,"](papers/COM20110457.pdf) in _IET Communications_, vol. 6, pp. 1054-1060, Jun. 2012, doi: [10.1049/iet-com.2011.0457](https://doi.org/10.1049/iet-com.2011.0457).
+- R.G. Machado, A.G. Klein, and R.K. Martin, ["Sparsening filter design for iterative soft-input soft-output detectors,"](papers/1687-1499-2012-72.pdf) in _EURASIP Journal on Wireless Communications and Networking (JWCN)_, 2012, doi: [10.1186/1687-1499-2012-72](https://doi.org/10.1186/1687-1499-2012-72).
+- Q. Deng and A.G. Klein, ["Relay selection in cooperative networks with frequency selective fading,"](papers/1687-1499-2011-171.pdf) in _EURASIP Journal on Wireless Communications and Networking (JWCN)_, 2011, doi: [10.1186/1687-1499-2011-171](https://doi.org/10.1186/1687-1499-2011-171).
+- Y. Peng, A.G. Klein, and X. Huang, ["Detector design and complexity analysis for cooperative communications in intersymbol interference fading channels,"](papers/239412.pdf) in _Journal ISRN Communications and Networking_, 2011, doi: [10.5402/2011/239412](https://doi.org/10.5402/2011/239412).
+- J. Yang, A.G. Klein, and D.R. Brown III, ["Natural cooperation in wireless networks: When can selfish nodes cooperate without extrinsic incentive mechanisms?,"](papers/YangSPMAG09.pdf) in _IEEE Signal Process. Mag._, 26(5):98:106, Sep. 2009, doi: [10.1109/MSP.2009.933185](https://doi.org/10.1109/MSP.2009.933185).
+- A.G. Klein and P. Duhamel, ["Decision-feedback equalization for pulse-position modulation,"](papers/101109tsp2007899392.pdf) in _IEEE Trans. Signal Process._, vol. 55, pp. 5361-5369, Nov. 2007, doi: [10.1109/TSP.2007.899392](https://doi.org/10.1109/TSP.2007.899392).
+- B. Djeumou, S. Lasaulce, and A.G. Klein, ["Practical quantize and forward schemes for the frequency division relay channel,"](papers/S1687147207202580.pdf) in _EURASIP Journal on Wireless Communications and Networking (JWCN)_, Volume 2007, 2007, doi: [10.1155/2007/20258](https://doi.org/10.1155/2007/20258).
+- A.G. Klein, C.R. Johnson, Jr., and P. Duhamel, ["On blind equalization of biorthogonal signaling,"](papers/04133040.pdf) in _IEEE Trans. Signal Process._, vol. 55, pp. 1421-1435, Apr. 2007, doi: [10.1109/TSP.2006.889981](https://doi.org/10.1109/TSP.2006.889981).
 
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aspectlab/aspectlab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
