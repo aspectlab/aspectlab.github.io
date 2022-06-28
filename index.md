@@ -1,8 +1,9 @@
-# Research Publications - The Adaptive Signal Processing and Emerging Communication Technologies (ASPECT) Laboratory
+# journal papers and magazine articles
 
-You can use the [editor on GitHub](https://github.com/aspectlab/aspectlab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- S. Farazi, A.G. Klein, and D.R. Brown III, ["Average age of information in update systems with active sources and packet delivery errors,"](papers/WCL2020.pdf) in _IEEE Wireless Comm. Letters_, vol. 9, no. 8, pp. 1164-1168, Aug. 2020, doi: [10.1109/LWC.2020.2983397](https://doi.org/10.1109/LWC.2020.2983397).
+ - S. Farazi, A.G. Klein, and D.R. Brown III, ["Fundamental bounds on the age of information in multi-hop global status update networks,"](papers/jcn2019.pdf) in _Journal of Communications and Networks (JCN) Special Issue on Age of Information_, vol. 21, no. 3, Jun. 2019, doi: [10.1109/JCN.2019.000038](https://doi.org/10.1109/JCN.2019.000038).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
